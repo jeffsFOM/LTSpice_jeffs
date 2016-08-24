@@ -1,0 +1,16 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -48 -56 64 56
+WINDOW 0 8 -56 Bottom 2
+PIN 64 -32 RIGHT 8
+PINATTR PinName +DC
+PINATTR SpiceOrder 1
+PIN 64 0 RIGHT 8
+PINATTR PinName -DC
+PINATTR SpiceOrder 2
+PIN 64 32 RIGHT 8
+PINATTR PinName omega
+PINATTR SpiceOrder 3
+PIN -48 -16 LEFT 8
+PINATTR PinName enc
+PINATTR SpiceOrder 4
